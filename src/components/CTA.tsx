@@ -33,7 +33,7 @@ export default function CTA() {
               </ul>
             </div>
           </div>
-          <div className="py-16 px-6 sm:px-16 lg:py-16 lg:px-20 lg:flex lg:flex-col lg:justify-center bg-gray-50">
+          <div className="py-8 px-6 sm:px-16 lg:py-16 lg:px-20 lg:flex lg:flex-col lg:justify-center bg-gray-50">
             <div className="text-center lg:text-left">
               <p className="text-lg font-medium text-gray-900">Oferta só para 2024</p>
               <div className="mt-4 flex items-center justify-center lg:justify-start">
