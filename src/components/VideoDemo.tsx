@@ -18,7 +18,7 @@ export default function VideoDemo() {
           <div className="relative pb-[56.25%] rounded-2xl overflow-hidden shadow-xl bg-gray-900">
             <iframe
               className="absolute top-0 left-0 w-full h-full"
-              src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+              src="https://www.youtube.com/embed/dQw4w9WgXcQ?rel=0&modestbranding=1&controls=1&showinfo=0"
               title="FreedomQuiz Demo"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
