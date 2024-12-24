@@ -30,7 +30,7 @@ const testimonials = [
 
 export default function Testimonials() {
   return (
-    <div id="testimonials" className="bg-gray-50 py-24">
+    <div id="testimonials" className="bg-gray-50 py-8">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center">
           <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">
@@ -40,7 +40,7 @@ export default function Testimonials() {
             Veja os nossos feedbacks
           </p>
         </div>
-        <div className="mt-20 grid grid-cols-1 gap-8 lg:grid-cols-3">
+        <div className="mt-6 grid grid-cols-1 gap-8 lg:grid-cols-3">
           {testimonials.map((testimonial, index) => (
             <div key={index} className="bg-white rounded-lg shadow-sm p-8">
               <div className="flex items-center">
